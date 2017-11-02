@@ -1,5 +1,5 @@
-# My Blog/Site
+# ramblings
 
-This is my blog and personal website. It is a place to gather my work and to exercise my writing. 
+This is my container for random things.
 
-The theme is mostly based on https://github.com/muan/scribble. But I have added KaTex support (super fast math rendering), made it wider and changed some other minor css/html things.
+Originally forked from https://github.com/ischlag/ischlag.github.io because I liked the Scribble layout and was too lazy to reproduce all the things to make it happen on github pages.
