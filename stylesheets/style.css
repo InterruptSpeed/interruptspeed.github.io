@@ -4,6 +4,10 @@ sup {
         line-height: 0;
     }
 
+.rounded-2 {
+  border-radius: 6px !important;
+}
+
 .center-image
 {
     margin: 0 auto;
