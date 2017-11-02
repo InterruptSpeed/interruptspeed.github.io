@@ -1,8 +1,8 @@
 # Site settings
-title:              Imanol Schlag
-email:              imanol.schlag@gmail.com
-description:        My personal website about Deep Learning, Recurrent Neural Networks, and more.
-url:                http://ischlag.github.io
+title:              InterruptSpeed
+email:              sdocherty@InterruptSpeed.com
+description:        This is my container for random things.
+url:                https://interruptspeed.github.io/
 
 links:
   - name:         Blog
@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         GitHub
-    url:          http://github.com/ischlag
+    url:          http://github.com/InterruptSpeed
     external:     true
   - name:         RSS
     url:          /feed.xml
