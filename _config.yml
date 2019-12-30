@@ -12,9 +12,6 @@ links:
   - name:         GitHub
     url:          http://github.com/InterruptSpeed
     external:     true
-  - name:         Twitter
-    url:          http://twitter.com/InterruptSpeed
-    external:     true
   - name:         RSS
     url:          /feed.xml
 
